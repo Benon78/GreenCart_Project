@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { assets, footerLinks } from '../assets/assets';
 import { NavLink } from 'react-router-dom';
 
